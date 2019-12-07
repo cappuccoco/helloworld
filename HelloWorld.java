@@ -9,3 +9,6 @@ public class Demo{
     System.out.println("hi");
   }
 }
+
+public class Demo2{
+}
